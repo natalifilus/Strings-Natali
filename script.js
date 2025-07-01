@@ -54,4 +54,4 @@ function tiraPalavrasRuins(palavras) {
   }
 
   return palavrasBoas;
-}
+} 
