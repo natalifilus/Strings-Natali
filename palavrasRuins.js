@@ -202,4 +202,10 @@ export const PALAVRAS_RUINS = new Set([
 "temos",
 "tão",
 "pouco",
+"o",
+"O",
+"te",
+"TE",
+"QUANDO",
+"quando",
 ]);
