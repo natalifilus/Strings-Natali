@@ -161,7 +161,7 @@ export const PALAVRAS_RUINS = new Set([
 "ser",
 "foi",
 "quando",
-"ouvindo",
+"Ouvindo",
 "o",
 "rolar",
 "eu",
@@ -208,4 +208,4 @@ export const PALAVRAS_RUINS = new Set([
 "TE",
 "QUANDO",
 "quando",
-]);
+]); 
